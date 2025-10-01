@@ -1,4 +1,4 @@
-[
+{"products":[
   {
     "id": 1,
     "title": "Modern Wooden Chair with Soft Cushion",
@@ -49,4 +49,4 @@
     "image": "/sofa_image.jpg",
     "description": "A stylish and comfortable wooden chair perfect for your home."
   }
-]
+]}
